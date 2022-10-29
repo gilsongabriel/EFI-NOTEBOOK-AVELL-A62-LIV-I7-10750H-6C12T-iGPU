@@ -1,6 +1,6 @@
 # EFI-NOTEBOOK-AVELL-A62-LIV-I7-10750H-6C12T-iGPU
 
-Esta EFI foi personalizada a partir da EFI base disponibilizada pelo [Gabriel Luchina do Universo Hackintoshi](https://github.com/luchina-gabriel) no seu repositório [BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE)
+Esta EFI foi personalizada a partir da EFI base disponibilizada pelo [Gabriel Luchina do Universo Hackintoshi](https://github.com/luchina-gabriel) no seu repositório [BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) e [EFI-NOTEBOOK-LENOVO-IDEAPAD-GAMING-3i-10300H-10750H-i5-i7-iGPU](https://github.com/luchina-gabriel/EFI-NOTEBOOK-LENOVO-IDEAPAD-GAMING-3i-10300H-10750H-i5-i7-iGPU)
 
 Siga o Universo Hackintoshi para saber tudo sobre hackintosh.
 
