@@ -18,6 +18,6 @@ Vídeo: Intel UHD Graphics 630 - iGPU (integrado)
 Áudio: Realtek ALC274 codec
 Rede: Realtek's Gigabit Ethernet / WIFI 6 AX-201
 SMBIOS: MacBookPro16,1
-macOS: Monterey
+macOS: Ventura e superiores
 Opencore: 0.8.6
 ```
