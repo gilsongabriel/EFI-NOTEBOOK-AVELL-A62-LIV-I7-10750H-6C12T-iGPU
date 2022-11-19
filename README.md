@@ -10,7 +10,7 @@ Siga o Universo Hackintoshi para saber tudo sobre hackintosh.
 
 ## Setup
 
-```
+```(text)
 Plataforma: Notebook | Intel 10th
 Modelo: Avel A62 LIV RTX
 Processador: Intel i7 10750H 6C/12T
@@ -18,6 +18,6 @@ Vídeo: Intel UHD Graphics 630 - iGPU (integrado)
 Áudio: Realtek ALC274 codec
 Rede: Realtek's Gigabit Ethernet / WIFI 6 AX-201
 SMBIOS: MacBookPro16,1
-macOS: Monterey ou superiores
-Opencore: 0.8.5
+macOS: Monterey
+Opencore: 0.8.6
 ```
