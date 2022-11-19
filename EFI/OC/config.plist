@@ -1280,12 +1280,12 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020411004NN9PRCB</string>
+			<string>C02914902GUN9PRJA</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
 			<data>
-			WLA1ugvW
+			UILVunzF
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
@@ -1294,9 +1294,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DJCYEMD6N</string>
+			<string>C02YJ0FAMD6N</string>
 			<key>SystemUUID</key>
-			<string>74D3D658-5B24-44DB-A439-9019C0ACB609</string>
+			<string>814EAD2E-F7FD-487C-9BC7-2E755FBE2158</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1360,11 +1360,11 @@
 			<key>AudioCodec</key>
 			<integer>0</integer>
 			<key>AudioDevice</key>
-			<string>PciRoot(0x0)/Pci(0x1b,0x0)</string>
+			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
 			<key>AudioOutMask</key>
-			<integer>1</integer>
+			<integer>-1</integer>
 			<key>AudioSupport</key>
-			<false/>
+			<true/>
 			<key>DisconnectHda</key>
 			<false/>
 			<key>MaximumGain</key>
@@ -1395,6 +1395,18 @@
 				<false/>
 				<key>Path</key>
 				<string>AudioDxe.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string>BiosVideo.efi</string>
+				<key>Enabled</key>
+				<true/>
+				<key>LoadEarly</key>
+				<false/>
+				<key>Path</key>
+				<string>BiosVideo.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
